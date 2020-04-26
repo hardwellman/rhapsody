@@ -1,0 +1,175 @@
+I-Logix-RPY-Archive version 8.15.0 * 9841247
+
+- m_fileModifyTime = { IRPYRawContainer 
+	- size = 34;
+	- value = "DefaultComponent\\DefaultConfig\\ButtonAdd.cpp" 3.4.2020::12:0:50
+	"DefaultComponent\\DefaultConfig\\ButtonAdd.h" 3.4.2020::12:0:50
+	"DefaultComponent\\DefaultConfig\\ButtonAddCl.cpp" 3.4.2020::12:0:49
+	"DefaultComponent\\DefaultConfig\\ButtonAddCl.h" 3.4.2020::12:0:49
+	"DefaultComponent\\DefaultConfig\\ButtonChangeCl.cpp" 3.4.2020::12:0:50
+	"DefaultComponent\\DefaultConfig\\ButtonChangeCl.h" 3.4.2020::12:0:50
+	"DefaultComponent\\DefaultConfig\\ButtonEdit.cpp" 3.4.2020::12:0:50
+	"DefaultComponent\\DefaultConfig\\ButtonEdit.h" 3.4.2020::12:0:50
+	"DefaultComponent\\DefaultConfig\\ButtonNewCl.cpp" 3.4.2020::12:0:49
+	"DefaultComponent\\DefaultConfig\\ButtonNewCl.h" 3.4.2020::12:0:49
+	"DefaultComponent\\DefaultConfig\\Client.cpp" 2.20.2020::5:22:5
+	"DefaultComponent\\DefaultConfig\\Client.h" 2.20.2020::5:22:5
+	"DefaultComponent\\DefaultConfig\\DBGrid.cpp" 3.4.2020::12:0:50
+	"DefaultComponent\\DefaultConfig\\DBGrid.h" 3.4.2020::12:0:50
+	"DefaultComponent\\DefaultConfig\\Developers.cpp" 2.20.2020::5:22:5
+	"DefaultComponent\\DefaultConfig\\Developers.h" 2.20.2020::5:22:5
+	"DefaultComponent\\DefaultConfig\\Form1.cpp" 2.20.2020::5:22:4
+	"DefaultComponent\\DefaultConfig\\Form1.h" 2.20.2020::5:22:4
+	"DefaultComponent\\DefaultConfig\\Form1Main.cpp" 3.4.2020::12:0:50
+	"DefaultComponent\\DefaultConfig\\Form1Main.h" 3.4.2020::12:0:50
+	"DefaultComponent\\DefaultConfig\\Form2.cpp" 2.20.2020::5:22:4
+	"DefaultComponent\\DefaultConfig\\Form2.h" 2.20.2020::5:22:4
+	"DefaultComponent\\DefaultConfig\\Form2Auth.cpp" 3.4.2020::12:0:49
+	"DefaultComponent\\DefaultConfig\\Form2Auth.h" 3.4.2020::12:0:49
+	"DefaultComponent\\DefaultConfig\\Form3Add.cpp" 3.4.2020::12:0:50
+	"DefaultComponent\\DefaultConfig\\Form3Add.h" 3.4.2020::12:0:50
+	"DefaultComponent\\DefaultConfig\\Form4Edit.cpp" 3.4.2020::12:0:50
+	"DefaultComponent\\DefaultConfig\\Form4Edit.h" 3.4.2020::12:0:50
+	"DefaultComponent\\DefaultConfig\\Form5Del.cpp" 3.4.2020::12:0:49
+	"DefaultComponent\\DefaultConfig\\Form5Del.h" 3.4.2020::12:0:49
+	"DefaultComponent\\DefaultConfig\\Manager.cpp" 2.20.2020::5:22:5
+	"DefaultComponent\\DefaultConfig\\Manager.h" 2.20.2020::5:22:5
+	"DefaultComponent\\DefaultConfig\\Update.cpp" 3.4.2020::12:0:49
+	"DefaultComponent\\DefaultConfig\\Update.h" 3.4.2020::12:0:49
+	
+}
+- m_saveUnitAndOwnerSaveUnit = { IRPYRawContainer 
+	- size = 2;
+	- value = "GUID 98f4ad62-27b3-4594-98c8-8ad8cdaab397" "GUID 70b8cd72-99a0-49db-a78d-2d24a69abdd2"
+	"GUID b894fc03-d729-49d3-97ab-9a553b7c9c83" "GUID 70b8cd72-99a0-49db-a78d-2d24a69abdd2"
+	
+}
+- size = 16;
+- hElement = { IHandle 
+	- _m2Class = "IActor";
+	- _filename = ".\\..\\..\\UML_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Manager";
+	- _id = GUID f106d266-c2e1-43cc-87a7-c454c6465168;
+}
+- genTime = 2.20.2020::5:22:5;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\UML_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Form5Del";
+	- _id = GUID 283ccc56-0055-453a-80e5-5fa223e9a71a;
+}
+- genTime = 3.4.2020::12:0:50;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\UML_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Form3Add";
+	- _id = GUID ee2af686-7e37-4212-b5bc-c5fe1abee541;
+}
+- genTime = 3.4.2020::12:0:50;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\UML_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Form2Auth";
+	- _id = GUID 0acbde35-f710-4c17-8678-f22e589096b7;
+}
+- genTime = 3.4.2020::12:0:50;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\UML_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "DBGrid";
+	- _id = GUID adb36981-730b-4881-8be1-7a3224630882;
+}
+- genTime = 3.4.2020::12:0:50;
+- hElement = { IHandle 
+	- _m2Class = "IActor";
+	- _filename = ".\\..\\..\\UML_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Client";
+	- _id = GUID e46b8368-ef6f-4d6c-b569-557630fc8ef5;
+}
+- genTime = 2.20.2020::5:22:5;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\UML_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "ButtonAdd";
+	- _id = GUID 7a412a86-5f71-4fc2-b7dc-3ec14daf8726;
+}
+- genTime = 3.4.2020::12:0:50;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\UML_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "ButtonNewCl";
+	- _id = GUID 108931ce-421c-47d8-9fcd-9dd185216e78;
+}
+- genTime = 3.4.2020::12:0:50;
+- hElement = { IHandle 
+	- _m2Class = "IActor";
+	- _filename = ".\\..\\..\\UML_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Developers";
+	- _id = GUID cbb829c2-8426-4917-8848-e3b0e09d1b86;
+}
+- genTime = 2.20.2020::5:22:5;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\UML_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Form4Edit";
+	- _id = GUID 042e827b-3c42-4121-99b7-fa63d3c24542;
+}
+- genTime = 3.4.2020::12:0:50;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\UML_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "ButtonEdit";
+	- _id = GUID 59104ab5-adab-4e52-aa7a-1bb23070e53b;
+}
+- genTime = 3.4.2020::12:0:50;
+- hElement = { IHandle 
+	- _m2Class = "ICodeGenConfigInfo";
+	- _filename = ".\\..\\..\\UML_rpy\\DefaultComponent.cmpx";
+	- _name = "DefaultComponent\\DefaultConfig";
+	- _id = GUID adf03ea7-8b0f-4394-93df-c29e35584d4e;
+}
+- genTime = 3.4.2020::12:0:50;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\UML_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "ButtonChangeCl";
+	- _id = GUID 4ef75ee2-2551-4f64-adf1-f011577b4ee3;
+}
+- genTime = 3.4.2020::12:0:50;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\UML_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Form1Main";
+	- _id = GUID adf497ae-fbbb-4519-aeaf-8b7f4b86b02d;
+}
+- genTime = 3.4.2020::12:0:50;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\UML_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "ButtonAddCl";
+	- _id = GUID e79defbe-1d6d-4a64-8241-cfea9236378e;
+}
+- genTime = 3.4.2020::12:0:50;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\UML_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Update";
+	- _id = GUID ce7669ad-1bc9-47c8-87ef-0d4395e507c1;
+}
+- genTime = 3.4.2020::12:0:50;
+
